@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml;
 
-namespace NodeLocation
+namespace NodeLocation   
 {
     class Program      
     {
